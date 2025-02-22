@@ -1,0 +1,11 @@
+# Node.js (React Native)
+node_modules/
+.env
+.expo/
+.expo-shared/
+
+# Python (Django)
+venv/
+__pycache__/
+db.sqlite3
+.env
